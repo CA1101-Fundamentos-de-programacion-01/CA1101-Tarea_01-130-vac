@@ -1,4 +1,10 @@
-resultado = z + x * 365 - y * 52
+z = 20
+
+x = 10
+
+y = 3
+
+z + x * 365 - y * 52
 
 monedas_encontradas 20
 
