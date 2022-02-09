@@ -12,4 +12,4 @@ monedas_robadas
 
 monedas_magicas 
 
-resultado = monedas_encontradas 20 + monedas_robadas * 365 - monedas_magicas * 52
+resultado = monedas_encontradas = 20 + monedas_robadas = 10 * 365 = - 3 monedas_magicas * 52
